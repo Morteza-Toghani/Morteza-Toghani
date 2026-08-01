@@ -1,6 +1,9 @@
 <h1 align="center">Morteza Toghani</h1>
 
-<h3 align="center">Uncertainty-Aware, Sample-Efficient Reinforcement Learning<br/>for Real-World Mobile Manipulation</h3>
+<h3 align="center">
+  Uncertainty-Aware, Sample-Efficient Reinforcement Learning<br/>
+  for Real-World Mobile Manipulation
+</h3>
 
 <p align="center">
   <b>MSc Student in AI &amp; Robotics</b> &nbsp;·&nbsp; Embodied AI &amp; Robot Learning
@@ -9,7 +12,7 @@
 <p align="center">
   <a href="#">arXiv</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#">Google Scholar</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/morteza-toghani/" target="_blank">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:morteza.toghani.academic@gmail.com">Email</a>
 </p>
 
