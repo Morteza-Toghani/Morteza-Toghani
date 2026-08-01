@@ -1,4 +1,4 @@
-<h1 align="center">[Last Name]</h1>
+<h1 align="center">Toghani</h1>
 <h3 align="center">Uncertainty-Aware, Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation</h3>
 <p align="center">
   <b>MSc Student in AI & Robotics</b> &nbsp;|&nbsp; Embodied AI & Robot Learning
@@ -7,7 +7,7 @@
   <a href="#">arXiv</a> •
   <a href="#">Google Scholar</a> •
   <a href="#">LinkedIn</a> •
-  <a href="#">Email</a>
+  <a href="mailto:morteza.toghani.academic@gmail.com">Email</a>
 </p>
 
 ---
@@ -21,14 +21,14 @@ To operate reliably outside structured factory setups, my work combines multi-mo
 ### Featured Projects
 | Repository | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| [**ua-mobile-manip**](https://github.com/morteza-xxx/ua-mobile-manip) | Hybrid online/offline RL framework combining online uncertainty estimation with multi-modal perception for real-world mobile manipulation. | PyTorch, MuJoCo, robosuite, ROS |
-| [**cr-mobile-manip**](https://github.com/morteza-xxx/cr-mobile-manip) | Bayesian/ensemble uncertainty layer as an online exploration signal for sample-efficient RL in contact-rich mobile manipulation tasks. | PyTorch, MuJoCo, Python, NumPy |
+| [**ua-mobile-manip**](https://github.com/Morteza-Toghani/ua-mobile-manip) | Hybrid online/offline RL framework combining online uncertainty estimation with multi-modal perception for real-world mobile manipulation. | PyTorch, MuJoCo, robosuite, ROS |
+| [**cr-mobile-manip**](https://github.com/Morteza-Toghani/cr-mobile-manip) | Bayesian/ensemble uncertainty layer as an online exploration signal for sample-efficient RL in contact-rich mobile manipulation tasks. | PyTorch, MuJoCo, Python, NumPy |
 
 ---
 
 ### Publications
 * **Uncertainty-Aware Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation**
-  *M. [Last Name], et al.*
+  *M. Toghani*
   *Manuscript in Preparation* (Target Venues: ICRA / IROS)
 
 ---
