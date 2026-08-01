@@ -1,61 +1,56 @@
-<h1 align="center">Morteza Toghani</h1>
-<p align="center"><i>MSc Student in AI — Reinforcement Learning for Real-World Robot Manipulation</i></p>
+<h1 align="center">Hi, I'm Morteza 👋</h1>
+
+<h3 align="center">MSc Student in AI & Robotics — Real-World Reinforcement Learning for Robot Manipulation</h3>
 
 <p align="center">
-  <a href="mailto:[YOUR_EMAIL]">Email</a> ·
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]">LinkedIn</a> ·
-  <a href="[YOUR_CV_LINK]">CV</a>
-  <!-- Add back once they exist: · <a href="[SCHOLAR_LINK]">Google Scholar</a> · <a href="[ARXIV_LINK]">arXiv</a> -->
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=morteza-xxx&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Uncertainty-Aware+RL+for+Mobile+Manipulation;Sample-Efficient+Learning+in+the+Real+World;Bridging+Simulation+and+Physical+Robots" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### 🔭 Research Focus
 
-I'm an MSc student in Artificial Intelligence working toward a PhD in **sample-efficient, uncertainty-aware reinforcement learning for real-world robot manipulation** — how a policy can represent what it doesn't know, and use that signal to learn safely and efficiently outside of simulation.
+I work on **sample-efficient, uncertainty-aware reinforcement learning for real-world mobile manipulation** — building policies that don't just perform well in simulation, but stay robust, data-efficient, and safe when deployed on physical robots facing contact-rich, unstructured environments.
 
-My background is in deep reinforcement learning and applied machine learning. I'm currently building the technical foundation — simulation environments, RL baselines, and uncertainty-estimation methods — for two research projects built around this problem, and applying this cycle for PhD and research-internship positions with labs working on real-world RL-based manipulation.
-
----
-
-### What I'm Building
-
-**[ua-mobile-manip](https://github.com/morteza-xxx/ua-mobile-manip)**
-Uncertainty-Aware Sample-Efficient RL for Real-World Mobile Manipulation — main line of work, hybrid online/offline RL with uncertainty estimation guiding exploration.
-
-**[cr-mobile-manip](https://github.com/morteza-xxx/cr-mobile-manip)**
-Online Uncertainty Estimation for Sample-Efficient RL in Contact-Rich Mobile Manipulation — backup line, ensemble/Bayesian uncertainty evaluated online rather than offline.
-
-*(Both are active work in progress.)*
-
-> Other repos (federated learning, medical segmentation, etc.) are intentionally left unpinned — this profile stays focused on the manipulation-RL line I'm applying with.
+My background spans **Deep RL, computer vision, metaheuristic optimization, and robotics & control**, which I bring together to close the sim-to-real gap: combining multi-modal perception (vision, tactile, proprioception) with online uncertainty estimation to make exploration and policy updates more reliable outside the lab.
 
 ---
 
-### Core Skills
+### 📌 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Repository | Description |
+|---|---|
+| **[ua-mobile-manip](https://github.com/morteza-xxx/ua-mobile-manip)** | Uncertainty-Aware Sample-Efficient RL for Real-World Mobile Manipulation — my primary research line, combining online uncertainty estimation with hybrid online/offline RL for contact-rich manipulation tasks. |
+| **[cr-mobile-manip](https://github.com/morteza-xxx/cr-mobile-manip)** | Online Uncertainty Estimation for Sample-Efficient RL in Contact-Rich Mobile Manipulation — a focused extension exploring Bayesian/ensemble uncertainty layers as an exploration signal inside the RL loop. |
 
 ---
 
-### GitHub Stats
+### 🎓 Publications & Preprints
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morteza-xxx&show_icons=true&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morteza-xxx&hide_border=true" alt="streak stats" height="165"/>
+- 📄 Preprint / paper draft — *link coming soon (arXiv)*
+- 🔗 [Google Scholar](#) &nbsp;·&nbsp; [LinkedIn](#)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-000000?style=flat&logo=mujoco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </p>
 
 ---
 
-<p align="center"><sub>Advised by [ADVISOR_NAME], [UNIVERSITY_NAME]</sub></p>
+### 🌱 Currently
+
+- Building baseline RL agents (SAC / DrQ-v2) on simulated mobile manipulation environments (robosuite, MuJoCo)
+- Developing an online uncertainty-estimation module as the core novelty of my research
+- Preparing a research statement targeting **ETH Zurich RSL** and **NTU MARS Lab**
+
+---
+
+<p align="center"><i>Open to research collaborations, internships, and PhD opportunities in embodied AI & robot learning.</i></p>
