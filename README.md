@@ -1,4 +1,5 @@
 <h1 align="center">Morteza Toghani</h1>
+
 <h3 align="center">Uncertainty-Aware, Sample-Efficient Reinforcement Learning<br/>for Real-World Mobile Manipulation</h3>
 
 <p align="center">
@@ -12,17 +13,17 @@
   <a href="mailto:morteza.toghani.academic@gmail.com">Email</a>
 </p>
 
----
+<br/>
 
-### Research Focus
+## Research Focus
 
 My research focuses on closing the sim-to-real gap for contact-rich mobile manipulation in unstructured, real-world environments. Current deep reinforcement learning (RL) frameworks suffer from high sample complexity and fragile policy transfer when subjected to physical uncertainties, unexpected dynamic contacts, and dynamic navigation constraints. I address these challenges by designing sample-efficient RL algorithms that integrate real-time, online uncertainty estimation directly into action selection and exploration signals.
 
 To operate reliably outside structured factory setups, my work combines multi-modal perception — fusing vision, tactile feedback, and proprioception — with hybrid online/offline learning paradigms. By explicitly modeling physical and sensory uncertainty during policy execution, the goal is to build physical AI systems that remain provably robust, sample-efficient, and safe during real-robot deployment.
 
----
+<br/>
 
-### Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -35,17 +36,19 @@ To operate reliably outside structured factory setups, my work combines multi-mo
   </tr>
 </table>
 
----
+<br/>
 
-### Publications
+## Publications
 
-* **Uncertainty-Aware Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation**  
-  *M. Toghani, et al.*  
-  *Manuscript in Preparation* — Target Venues: ICRA / IROS
+> **Uncertainty-Aware Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation**
+>
+> M. Toghani
+>
+> *Manuscript in preparation — target venues: ICRA / IROS*
 
----
+<br/>
 
-### Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -56,19 +59,21 @@ To operate reliably outside structured factory setups, my work combines multi-mo
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
----
+<br/>
 
-### Currently
+## Currently
 
-* Writing the manuscript for *"Uncertainty-Aware Sample-Efficient RL for Real-World Mobile Manipulation"* (target: ICRA / IROS).
-* Building baseline SAC and DrQ-v2 reinforcement learning agents across custom MuJoCo and robosuite mobile manipulation tasks.
-* Developing real-robot perception and control abstraction layers for seamless sim-to-real policy transfer on Franka/xArm platforms.
+- Writing the manuscript for *"Uncertainty-Aware Sample-Efficient RL for Real-World Mobile Manipulation"* (target: ICRA / IROS)
+- Building baseline SAC and DrQ-v2 reinforcement learning agents across custom MuJoCo and robosuite mobile manipulation tasks
+- Developing real-robot perception and control abstraction layers for seamless sim-to-real policy transfer on Franka/xArm platforms
 
----
+<br/>
 
-### Up Next
+## Up Next
 
-* A second manuscript on online uncertainty estimation for contact-rich mobile manipulation, building on `cr-mobile-manip`, following completion of the primary paper.
+- A second manuscript on online uncertainty estimation for contact-rich mobile manipulation, building on `cr-mobile-manip`, following completion of the first paper
+
+<br/>
 
 ---
 
