@@ -1,9 +1,16 @@
-<h1 align="center">Hi, I'm Morteza 👋</h1>
+<h1 align="center">Morteza [Last Name]</h1>
 
-<h3 align="center">MSc Student in AI & Robotics — Real-World Reinforcement Learning for Robot Manipulation</h3>
+<h3 align="center">Uncertainty-Aware, Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Uncertainty-Aware+RL+for+Mobile+Manipulation;Sample-Efficient+Learning+in+the+Real+World;Bridging+Simulation+and+Physical+Robots" alt="Typing SVG" />
+  MSc Student, AI &amp; Robotics · Bridging Simulation and Physical Robots Through Robust, Data-Efficient Policy Learning
+</p>
+
+<p align="center">
+  <a href="#">arXiv</a> ·
+  <a href="#">Google Scholar</a> ·
+  <a href="#">LinkedIn</a> ·
+  <a href="mailto:you@email.com">Email</a>
 </p>
 
 ---
@@ -25,10 +32,11 @@ My background spans **Deep RL, computer vision, metaheuristic optimization, and 
 
 ---
 
-### 🎓 Publications & Preprints
+### Publications
 
-- 📄 Preprint / paper draft — *link coming soon (arXiv)*
-- 🔗 [Google Scholar](#) &nbsp;·&nbsp; [LinkedIn](#)
+**Uncertainty-Aware Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation**
+*Manuscript in preparation — target venues: ICRA / IROS*
+Preprint link will be added upon arXiv submission.
 
 ---
 
@@ -53,4 +61,4 @@ My background spans **Deep RL, computer vision, metaheuristic optimization, and 
 
 ---
 
-<p align="center"><i>Open to research collaborations, internships, and PhD opportunities in embodied AI & robot learning.</i></p>
+<p align="center"><i>Open to research internships and PhD positions in embodied AI, reinforcement learning, and real-world robot manipulation.</i></p>
