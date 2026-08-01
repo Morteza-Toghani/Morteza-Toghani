@@ -1,4 +1,4 @@
-<h1 align="center">Toghani</h1>
+<h1 align="center">Morteza Toghani</h1>
 <h3 align="center">Uncertainty-Aware, Sample-Efficient Reinforcement Learning for Real-World Mobile Manipulation</h3>
 <p align="center">
   <b>MSc Student in AI & Robotics</b> &nbsp;|&nbsp; Embodied AI & Robot Learning
