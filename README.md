@@ -13,7 +13,7 @@ Investigating when and why AI uncertainty becomes unreliable under distribution 
 
 **Uncertainty → Calibration → Calibration Failure → Distribution Shift → Causal Attribution → Statistical Validation → Recalibration → Safety-Constrained Decision Making**
 
-![Research Program](./research-program.png)
+<img src="./research-program.png" alt="Research Program" width="500">
 
 ---
 
