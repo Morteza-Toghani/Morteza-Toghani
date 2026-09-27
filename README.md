@@ -34,7 +34,7 @@ Investigating when and why AI uncertainty becomes unreliable under distribution 
 
 **Paper 1 — Diagnosis**  
 *Why Ensembles Miscalibrate Differently: Causal Attribution of Calibration Failure under Dynamics, Observation, and Policy Shift*  
-`PROTOTYPE`
+`IN PROGRESS`
 
 **Paper 2 — Intervention**  
 *From Diagnosis to Safety: Causally-Informed Recalibration and Safety-Constrained Decision Making under Distribution Shift*  
