@@ -3,7 +3,9 @@
 ### MSc Student in AI & Robotics
 Investigating when and why AI uncertainty becomes unreliable under distribution shift — and what to do about it.
 
-**MSc in AI & Robotics · BSc Electrical Engineering (Power)**
+**MSc in AI & Robotics · BSc Electrical Engineering (Power)
+🔨 Currently: writing Paper 1 & building the experimental pipeline (dynamics/observation/policy interventions)
+**
 
 ---
 
