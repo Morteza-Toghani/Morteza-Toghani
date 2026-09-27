@@ -49,7 +49,7 @@ Thesis → Diagnosis → Intervention → Reliable Decision-Making under Shift
 
 ## Technical Focus
 
-**Python · PyTorch · NumPy · scikit-learn · Git · LaTeX**
+**Python · PyTorch · NumPy · SciPy · scikit-learn · Gymnasium/MuJoCo · Git · LaTeX**
 
 ---
 
